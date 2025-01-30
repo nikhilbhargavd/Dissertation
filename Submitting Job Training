@@ -1,0 +1,31 @@
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v5/single_instance.json /home/zchanbd/newtraining/v5/backuplabels.pkg.slp
+
+Your job 453872 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v6/single_instance.json /home/zchanbd/newtraining/v6/backuplabels.pkg.slp
+
+Your job 453874 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v7/single_instance.json /home/zchanbd/newtraining/v7/backuplabels.pkg.slp
+
+Your job 453875 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v8/single_instance.json /home/zchanbd/newtraining/v8/backuplabels.pkg.slp
+
+Your job 453876 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v9/single_instance.json /home/zchanbd/newtraining/v9/backuplabels.pkg.slp
+
+Your job 453877 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v10/single_instance.json /home/zchanbd/newtraining/v10/backuplabels.pkg.s
+lp
+Your job 453878 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v11/single_instance.json /home/zchanbd/newtraining/v11/backuplabels.pkg.s
+lp
+Your job 453879 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v12/single_instance.json /home/zchanbd/newtraining/v12/backuplabels.pkg.s
+lp
+Your job 453880 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v13/single_instance.json /home/zchanbd/newtraining/v13/backuplabels.pkg.s
+lp
+Your job 453881 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v14/single_instance.json /home/zchanbd/newtraining/v14/backuplabels.pkg.s
+lp
+Your job 453882 ("sleapTrainModel") has been submitted
+[zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v15/single_instance.json /home/zchanbd/newtraining/v15/backuplabels.pkg.slp
