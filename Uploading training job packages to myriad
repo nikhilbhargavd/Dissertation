@@ -1,0 +1,66 @@
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v5 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  13.9MB/s   00:08
+inference-script.sh                      100% 2814   305.3KB/s   00:00
+jobs.yaml                                100% 2100   128.2KB/s   00:00
+single_instance.json                     100% 5276     5.2KB/s   00:00
+train-script.sh                          100%   68     0.1KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v6 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  13.8MB/s   00:08
+inference-script.sh                      100% 2824   172.4KB/s   00:00
+jobs.yaml                                100% 2100     2.1KB/s   00:00
+single_instance.json                     100% 5271     5.2KB/s   00:00
+train-script.sh                          100%   68     4.2KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v7 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  12.8MB/s   00:08
+inference-script.sh                      100%   13     1.2KB/s   00:00
+jobs.yaml                                100%  143     8.7KB/s   00:00
+single_instance.json                     100% 5271     5.2KB/s   00:00
+train-script.sh                          100%   68     4.2KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v8 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  12.4MB/s   00:08
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143    15.5KB/s   00:00
+single_instance.json                     100% 5272   321.8KB/s   00:00
+train-script.sh                          100%   68    13.3KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v9 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  14.6MB/s   00:07
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143     8.7KB/s   00:00
+single_instance.json                     100% 5270     5.2KB/s   00:00
+train-script.sh                          100%   68     4.2KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v10 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  12.2MB/s   00:09
+inference-script.sh                      100%   13     0.8KB/s   00:00
+jobs.yaml                                100%  143     0.1KB/s   00:00
+single_instance.json                     100% 5271   107.2KB/s   00:00
+train-script.sh                          100%   68     0.1KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v11 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  13.2MB/s   00:08
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143     0.1KB/s   00:00
+single_instance.json                     100% 5270     5.2KB/s   00:00
+train-script.sh                          100%   68     0.1KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v12 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  13.7MB/s   00:08
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143     8.7KB/s   00:00
+single_instance.json                     100% 5270     5.2KB/s   00:00
+train-script.sh                          100%   68    13.3KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v13 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  13.6MB/s   00:08
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143     0.1KB/s   00:00
+single_instance.json                     100% 5275     5.2KB/s   00:00
+train-script.sh                          100%   68     0.1KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v14 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB   8.4MB/s   00:13
+inference-script.sh                      100%   13     0.0KB/s   00:00
+jobs.yaml                                100%  143     0.1KB/s   00:00
+single_instance.json                     100% 5272     5.2KB/s   00:00
+train-script.sh                          100%   68     0.1KB/s   00:00
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v15 zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining
+backuplabels.pkg.slp                     100%  111MB  14.0MB/s   00:07
+inference-script.sh                      100%   13     0.8KB/s   00:00
+jobs.yaml                                100%  143     0.1KB/s   00:00
+single_instance.json                     100% 5271   105.1KB/s   00:00
+train-script.sh                          100%   68     4.2KB/s   00:00
