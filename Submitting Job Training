@@ -29,3 +29,5 @@ Your job 453881 ("sleapTrainModel") has been submitted
 lp
 Your job 453882 ("sleapTrainModel") has been submitted
 [zchanbd@login13 ~]$ qsub sleapTrainModelSingle.sh /home/zchanbd/newtraining/v15/single_instance.json /home/zchanbd/newtraining/v15/backuplabels.pkg.slp
+
+Your job 465631 ("sleapTrainModel") has been submitted
