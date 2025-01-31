@@ -1,0 +1,153 @@
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v5/SLEAP_train_453872/tmpdir/job/453872.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v5
+best_model.h5                            100%   30MB   9.1MB/s   00:03
+initial_config.json                      100% 5148   837.9KB/s   00:00
+labels_gt.train.slp                      100%  146KB   6.2MB/s   00:00
+labels_gt.val.slp                        100%   47KB 701.6KB/s   00:00
+labels_pr.train.slp                      100%  162KB   2.3MB/s   00:00
+labels_pr.val.slp                        100%   33KB 493.8KB/s   00:00
+metrics.train.npz                        100%   34KB   2.4MB/s   00:00
+metrics.val.npz                          100% 5820   812.0KB/s   00:00
+training_config.json                     100%   30KB   3.3MB/s   00:00
+training_log.csv                         100% 2404   293.5KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v6/SLEAP_train_453874/tmpdir/job/453874.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v6
+best_model.h5                            100%   30MB   8.1MB/s   00:03
+initial_config.json                      100% 5143   627.8KB/s   00:00
+labels_gt.train.slp                      100%  146KB   2.0MB/s   00:00
+labels_gt.val.slp                        100%   47KB 292.0KB/s   00:00
+labels_pr.train.slp                      100%  162KB 909.1KB/s   00:00
+labels_pr.val.slp                        100%   33KB 551.4KB/s   00:00
+metrics.train.npz                        100%   34KB   3.3MB/s   00:00
+metrics.val.npz                          100% 6037   589.6KB/s   00:00
+training_config.json                     100%   30KB   2.7MB/s   00:00
+training_log.csv                         100% 5623     1.1MB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v7/SLEAP_train_453875/tmpdir/job/453875.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v7
+best_model.h5                            100%  120MB  10.3MB/s   00:11
+initial_config.json                      100% 5143    77.3KB/s   00:00
+labels_gt.train.slp                      100%  146KB   1.6MB/s   00:00
+labels_gt.val.slp                        100%   47KB 734.5KB/s   00:00
+labels_pr.train.slp                      100%  162KB   2.0MB/s   00:00
+labels_pr.val.slp                        100%   33KB 472.7KB/s   00:00
+metrics.train.npz                        100%   33KB   3.3MB/s   00:00
+metrics.val.npz                          100% 6014   587.3KB/s   00:00
+training_config.json                     100%   30KB   3.0MB/s   00:00
+training_log.csv                         100% 3520   429.7KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v8/SLEAP_train_453876/tmpdir/job/453876.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v8
+best_model.h5                            100%  120MB  10.5MB/s   00:11
+initial_config.json                      100% 5144   502.3KB/s   00:00
+labels_gt.train.slp                      100%  146KB   1.7MB/s   00:00
+labels_gt.val.slp                        100%   47KB   4.2MB/s   00:00
+labels_pr.train.slp                      100%  162KB   2.0MB/s   00:00
+labels_pr.val.slp                        100%   33KB   3.2MB/s   00:00
+metrics.train.npz                        100%   34KB 453.4KB/s   00:00
+metrics.val.npz                          100% 5798   566.2KB/s   00:00
+training_config.json                     100%   30KB   1.7MB/s   00:00
+training_log.csv                         100% 3413   370.3KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v9/SLEAP_train_453877/tmpdir/job/453877.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v9
+best_model.h5                            100% 7636KB   8.4MB/s   00:00
+initial_config.json                      100% 5142   502.2KB/s   00:00
+labels_gt.train.slp                      100%  146KB   1.0MB/s   00:00
+labels_gt.val.slp                        100%   47KB   4.6MB/s   00:00
+labels_pr.train.slp                      100%  162KB   2.0MB/s   00:00
+labels_pr.val.slp                        100%   33KB   1.9MB/s   00:00
+metrics.train.npz                        100%   31KB 627.3KB/s   00:00
+metrics.val.npz                          100% 5728   559.4KB/s   00:00
+training_config.json                     100%   30KB   2.0MB/s   00:00
+training_log.csv                         100% 4134   403.7KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v10/SLEAP_train_453878/tmpdir/job/453878.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v10
+best_model.h5                            100%  120MB   8.3MB/s   00:14
+initial_config.json                      100% 5143   502.3KB/s   00:00
+labels_gt.train.slp                      100%  146KB   1.6MB/s   00:00
+labels_gt.val.slp                        100%   47KB 705.6KB/s   00:00
+labels_pr.train.slp                      100%  162KB   6.3MB/s   00:00
+labels_pr.val.slp                        100%   33KB 509.0KB/s   00:00
+metrics.train.npz                        100%   34KB   2.1MB/s   00:00
+metrics.val.npz                          100% 6134   665.6KB/s   00:00
+training_config.json                     100%   30KB   9.9MB/s   00:00
+training_log.csv                         100% 4364   473.5KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v11/SLEAP_train_453879/tmpdir/job/453879.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v11
+best_model.h5                            100%   30MB   7.0MB/s   00:04
+initial_config.json                      100% 5142     5.0KB/s   00:00
+labels_gt.train.slp                      100%  146KB   5.7MB/s   00:00
+labels_gt.val.slp                        100%   48KB 594.3KB/s   00:00
+labels_pr.train.slp                      100%  162KB   2.3MB/s   00:00
+labels_pr.val.slp                        100%   33KB 542.4KB/s   00:00
+metrics.train.npz                        100%   34KB   2.3MB/s   00:00
+metrics.val.npz                          100% 6073   539.1KB/s   00:00
+training_config.json                     100%   30KB 869.2KB/s   00:00
+training_log.csv                         100% 3690   100.1KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v12/SLEAP_train_453880/tmpdir/job/453880.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v12
+best_model.h5                            100%  480MB   8.4MB/s   00:57
+initial_config.json                      100% 5142   836.9KB/s   00:00
+labels_gt.train.slp                      100%  146KB   1.6MB/s   00:00
+labels_gt.val.slp                        100%   47KB   2.3MB/s   00:00
+labels_pr.train.slp                      100%  144KB   1.6MB/s   00:00
+labels_pr.val.slp                        100%   31KB   3.3MB/s   00:00
+metrics.train.npz                        100%   12KB   1.1MB/s   00:00
+metrics.val.npz                          100% 3173   387.3KB/s   00:00
+training_config.json                     100%   30KB   2.7MB/s   00:00
+training_log.csv                         100% 2903   283.5KB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v13/SLEAP_train_453881/tmpdir/job/453881.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zchanbd/newtraining/v13
+best_model.h5                            100%  480MB   9.3MB/s   00:51
+initial_config.json                      100% 5147   457.0KB/s   00:00
+labels_gt.train.slp                      100%  146KB   2.0MB/s   00:00
+labels_gt.val.slp                        100%   47KB 783.5KB/s   00:00
+training_config.json                     100%   30KB   2.3MB/s   00:00
+training_log.csv                         100%  669    72.6KB/s   00:00
+train.0000.png                           100%  157KB   2.4MB/s   00:00
+train.0001.png                           100%  162KB   2.0MB/s   00:00
+train.0002.png                           100%  160KB   5.0MB/s   00:00
+train.0003.png                           100%  154KB   7.9MB/s   00:00
+train.0004.png                           100%  158KB   1.8MB/s   00:00
+train.0005.png                           100%  182KB   2.2MB/s   00:00
+train.0006.png                           100%  148KB   6.0MB/s   00:00
+train.0007.png                           100%  158KB   1.8MB/s   00:00
+train.0008.png                           100%  154KB   1.7MB/s   00:00
+train.0009.png                           100%  159KB   5.3MB/s   00:00
+train.0010.png                           100%  158KB   2.3MB/s   00:00
+train.0011.png                           100%  157KB   2.1MB/s   00:00
+validation.0000.png                      100%  154KB   2.1MB/s   00:00
+validation.0001.png                      100%  151KB   1.8MB/s   00:00
+validation.0002.png                      100%  174KB   2.1MB/s   00:00
+validation.0003.png                      100%  152KB 913.4KB/s   00:00
+validation.0004.png                      100%  158KB   2.0MB/s   00:00
+validation.0005.png                      100%  162KB   5.4MB/s   00:00
+validation.0006.png                      100%  151KB   1.6MB/s   00:00
+validation.0007.png                      100%  155KB   1.8MB/s   00:00
+validation.0008.png                      100%  172KB   2.4MB/s   00:00
+validation.0009.png                      100%  174KB   5.3MB/s   00:00
+validation.0010.png                      100%  159KB   7.4MB/s   00:00
+validation.0011.png                      100%  158KB   2.2MB/s   00:00
+
+PS C:\Users\nikhi> scp -r C:/Users/nikhi/LabProject/new/v14/SLEAP_train_453
+882/tmpdir/job/453882.undefined/models zchanbd@myriad.rc.ucl.ac.uk:/home/zc
+hanbd/newtraining/v14
+best_model.h5                            100%  480MB   9.9MB/s   00:48
+initial_config.json                      100% 5144     5.0KB/s   00:00
+labels_gt.train.slp                      100%  146KB   2.0MB/s   00:00
+labels_gt.val.slp                        100%   47KB 681.3KB/s   00:00
+training_config.json                     100%   30KB   2.5MB/s   00:00
+training_log.csv                         100%  452     0.4KB/s   00:00
+train.0000.png                           100%  155KB   5.4MB/s   00:00
+train.0001.png                           100%  151KB   1.2MB/s   00:00
+train.0002.png                           100%  162KB   2.0MB/s   00:00
+train.0003.png                           100%  180KB   1.3MB/s   00:00
+train.0004.png                           100%  164KB   5.2MB/s   00:00
+train.0005.png                           100%  156KB   5.6MB/s   00:00
+train.0006.png                           100%  160KB 896.1KB/s   00:00
+train.0007.png                           100%  181KB   2.5MB/s   00:00
+validation.0000.png                      100%  156KB   1.5MB/s   00:00
+validation.0001.png                      100%  168KB 149.9KB/s   00:01
+validation.0002.png                      100%  154KB   1.4MB/s   00:00
+validation.0003.png                      100%  154KB   1.7MB/s   00:00
+validation.0004.png                      100%  165KB   1.2MB/s   00:00
+validation.0005.png                      100%  159KB 992.9KB/s   00:00
+validation.0006.png                      100%  179KB   3.1MB/s   00:00
+validation.0007.png                      100%  159KB   4.6MB/s   00:00
